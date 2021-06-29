@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0ac0a56d3418bc4e95fbac1fff8d524, type: 3}
+  m_Name: ChoiceChap2
+  m_EditorClassIdentifier: 
+  dialogueInfo2: []
+  choiceText: "\uC5B4\uB290 \uACFC?"
+  choiceInfo:
+  - choiceBtn: "\uC18C\uD504\uD2B8\uC6E8\uC5B4\uACFC"
+    nextDialogue: {fileID: 11400000, guid: 7cf8a13dfaa0ef842a656be9bf4942d1, type: 2}
+    userEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - choiceBtn: "\uC6F9\uC194\uB8E8\uC158\uACFC"
+    nextDialogue: {fileID: 11400000, guid: e456e497acdb3e0458ea164c38c4c679, type: 2}
+    userEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - choiceBtn: "\uB514\uC790\uC778\uACFC"
+    nextDialogue: {fileID: 11400000, guid: 57f02fbabb5cd064281831644009db0f, type: 2}
+    userEvent:
+      m_PersistentCalls:
+        m_Calls: []
