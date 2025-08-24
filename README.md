@@ -31,6 +31,21 @@
 ## 💡 Preview
 ![미림에서+살아남기_Concept+Image](https://user-images.githubusercontent.com/53461080/99349138-9144fb80-28de-11eb-9e4d-5725242d3130.png)
 
+<div align="center">
+  <table>
+  <tr>
+    <td align="left">
+      <img src="https://github.com/user-attachments/assets/ca776c22-f17a-4e57-a22d-2dd593387288" alt="Survive in Mirim" height="400" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4dde1e12-3434-4465-a54f-787d9f4deaaa" alt="Survive in Mirim1" height="400" />
+    </td>
+    <td align="right">
+      <img src="https://github.com/user-attachments/assets/82747a67-534b-44b9-a7e8-1f235341a9a3" alt="Survive in Mirim2" height="400" />
+    </td>
+  </tr>
+</table>
+</div>
 <br/>
 
 ## 🤝Team
